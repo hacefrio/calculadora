@@ -12,7 +12,7 @@ import javax.script.ScriptException;
 
 /**
  *
- * @author Sebastian
+ * @author hacefrio
  */
 public class Operaciones {
     

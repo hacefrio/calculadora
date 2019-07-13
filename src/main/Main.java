@@ -7,7 +7,7 @@ package main;
 
 /**
  *
- * @author Sebastian
+ * @author hacefrio
  */
 public class Main extends javax.swing.JFrame {
 
